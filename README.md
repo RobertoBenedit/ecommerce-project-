@@ -1,2 +1,0 @@
-# ecommerce-project-
-Mern Ecommerce
